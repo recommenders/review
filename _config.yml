@@ -7,11 +7,14 @@ title: "RecSys Review"
 description: > # this means to ignore newlines until "email:"
    RecSys Review - a semiannual newsletter.
 
+url: "http://recommenders.net/review" # the base hostname & protocol for your site
+baseurl: "/review"
+
 email: review@recommenders.net
 #blog logo
-logo: "/assets/images/rr_logo.png"
+logo: "/review/assets/images/rr_logo.png"
 # blog cover
-cover: "/assets/images/bg.png"
+cover: "/review/assets/images/bg.png"
 
 name: 'RecSys Review'
 author: 'RecSys Review'
@@ -21,8 +24,6 @@ paginate:	5
 
 maincat: index
 
-url: "http://recommenders.net/review" # the base hostname & protocol for your site
-baseurl: "/review"
 
 # social icons and sharing options
 social:
