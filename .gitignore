@@ -1,0 +1,4 @@
+_site
+*.lock
+.DS_Store
+.sass-cache*

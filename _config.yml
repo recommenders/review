@@ -1,0 +1,55 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "RecSys Review"
+description: > # this means to ignore newlines until "email:"
+   RecSys Review - a semiannual newsletter.
+
+email: review@recommenders.net
+#blog logo
+logo: "/assets/images/rr_logo.png"
+# blog cover
+cover: "/assets/images/bg.png"
+
+name: 'RecSys Review'
+author: 'RecSys Review'
+author_image: "/assets/images/rr_logo.png"
+
+paginate:	5
+
+maincat: index
+
+url: "http://recommenders.net/review" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/recsysreview
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/recommenders/review
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
