@@ -12,13 +12,13 @@ baseurl: "/review"
 
 email: review@recommenders.net
 #blog logo
-logo: "{{ site.baseurl }}/assets/images/rr_logo.png"
+logo: "assets/images/rr_logo.png"
 # blog cover
-cover: "{{ site.baseurl }}/assets/images/bg.png"
+cover: "assets/images/bg.png"
 
 name: 'RecSys Review'
 author: 'RecSys Review'
-author_image: "{{ site.baseurl }}/assets/images/rr_logo.png"
+author_image: "assets/images/rr_logo.png"
 
 paginate:	5
 
