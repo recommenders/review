@@ -15,14 +15,14 @@ cover: "/assets/images/bg.png"
 
 name: 'RecSys Review'
 author: 'RecSys Review'
-author_image: "/assets/images/rr_logo.png"
+author_image: "review/assets/images/rr_logo.png"
 
 paginate:	5
 
 maincat: index
 
 url: "http://recommenders.net/review" # the base hostname & protocol for your site
-baseurl: "http://recommenders.net/review"
+baseurl: ""
 
 # social icons and sharing options
 social:
