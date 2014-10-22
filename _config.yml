@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "email:"
    RecSys Review - a semiannual newsletter.
 
 url: "http://recommenders.net/review" # the base hostname & protocol for your site
-baseurl: "http://recommenders.net/review"
+baseurl: "/review"
 
 email: review@recommenders.net
 #blog logo
