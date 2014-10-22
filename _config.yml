@@ -21,8 +21,8 @@ paginate:	5
 
 maincat: index
 
-url: "http://recommenders.net" # the base hostname & protocol for your site
-baseurl: "/review"
+url: "http://recommenders.net/review" # the base hostname & protocol for your site
+baseurl: "http://recommenders.net/review"
 
 # social icons and sharing options
 social:
