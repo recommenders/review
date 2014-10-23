@@ -1,4 +1,4 @@
 RecSys Review
 =============
-The (RecSys Review Website)[http://recommenders.net/review]
+The [RecSys Review Website](http://recommenders.net/review)
 
