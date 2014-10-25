@@ -11,4 +11,4 @@ RecSys Review accepts submissions from anyone wishing to inform the community ab
 
 
 
-<section class="poweredby">header image courtesy of <a href="https://www.flickr.com/photos/38565413@N03/5086611825"> Robert Kilman</a></section>
+<section class="site-footer poweredby">Header image courtesy of <a href="https://www.flickr.com/photos/38565413@N03/5086611825"> Robert Kilman</a></section>
