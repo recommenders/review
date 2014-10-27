@@ -12,6 +12,7 @@ RecSys Review attempts to serve as a medium for dissemination of conference, wor
 
 
 Editors of RecSys Review:
+
 * Alejandro Bellogin - Universidad Autónoma de Madrid
 * Michael Ekstrand - Texas State University
 * Cataldo Musto - University of Bari
