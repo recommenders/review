@@ -17,6 +17,7 @@ Editors of RecSys Review:
 * Michael Ekstrand - Texas State University
 * Cataldo Musto - University of Bari
 * Denis Parra - PUC Chile
+* Sherry Sahebi - University of Pittsburgh
 * Alan Said - Delft University of Technology
 
 Contact:
